@@ -1,5 +1,5 @@
 # VIPaint: Image Inpainting with Pre-Trained Diffusion Models via Variational Inference
-[![Project Page](https://img.shields.io/badge/Project-Page-blue)](https://hjimjim.github.io/vipaint/)
+[![Project Page](https://img.shields.io/badge/Project-Page-blue)](https://jimin-heo.github.io/vipaint/)
 [![arXiv](https://img.shields.io/badge/arXiv-2411.18929-b31b1b.svg)](https://arxiv.org/abs/2411.18929)
 
 
