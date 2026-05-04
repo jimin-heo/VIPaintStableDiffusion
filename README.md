@@ -1,4 +1,7 @@
 # VIPaint: Image Inpainting with Pre-Trained Diffusion Models via Variational Inference
+[![Project Page](https://img.shields.io/badge/Project-Page-blue)](https://hjimjim.github.io/vipaint/)
+[![arXiv](https://img.shields.io/badge/arXiv-2411.18929-b31b1b.svg)](https://arxiv.org/abs/2411.18929)
+
 
 Reference implementation of VIPaint on top of the Stable Diffusion 3.5 reference codebase. VIPaint is a hierarchical variational inference algorithm that fits a non-Gaussian Markov approximation of the true diffusion posterior, producing diverse high-quality inpaintings even for large masked regions on state-of-the-art text-conditioned latent diffusion models. The same framework also applies to other inverse problems such as deblurring and super-resolution.
 
