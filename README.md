@@ -78,14 +78,13 @@ This repository is built on top of the [Stability AI SD3.5 reference implementat
 ## Citation
 
 ```bibtex
-@misc{agarwal2026vipaintimageinpaintingpretrained,
-      title={VIPaint: Image Inpainting with Pre-Trained Diffusion Models via Variational Inference}, 
-      author={Sakshi Agarwal and Gabriel Hope and Jimin Heo and Erik B. Sudderth},
-      year={2026},
-      eprint={2411.18929},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2411.18929}, 
+@inproceedings{
+agarwal2026vipaint,
+title={{VIP}aint: Image Inpainting with Pre-Trained Diffusion Models via Variational Inference},
+author={Sakshi Agarwal and Gabriel Hope and Jimin Heo and Erik B. Sudderth},
+booktitle={The 29th International Conference on Artificial Intelligence and Statistics},
+year={2026},
+url={https://openreview.net/forum?id=0ehuNXBslr}
 }
 ```
 
